@@ -6,16 +6,16 @@
 </table>
 
 ## Table of Contents
-
 1. [Introduction](#introduction)
 2. [Getting Started](#getting-started)
 3. [Folder Structure](#folder-structure)
 4. [Installation](#installation)
 5. [Basic Commands](#basic-commands)
-6. [Contributing](#contributing)
-7. [Resources](#resources)
-8. [License](#license)
-9. [Author](#author)
+6. [Screenshots](#screenshots)   <!-- Added Screenshots Section -->
+7. [Contributing](#contributing)
+8. [Resources](#resources)
+9. [License](#license)
+10. [Author](#author)
 
 ## Introduction
 
@@ -46,6 +46,16 @@ To get started with SWI-Prolog, clone this repository and follow the installatio
 - Load a Prolog file within the SWI-Prolog shell: `?- [filename].`
 - Consult a file: `?- consult('filename.pl').`
 
+## Screenshots
+
+Here are a couple of screenshots demonstrating the usage of Prolog and SWI-Prolog:
+
+**Screenshot 1: Prolog family relationships code**
+![Screenshot 2024-09-27 224812](https://github.com/user-attachments/assets/e5fd01f1-08ad-4218-820c-6fd4629c8ba2)
+
+**Screenshot 2: SWI-Prolog execution**
+![Screenshot 2024-09-27 224824](https://github.com/user-attachments/assets/df2a1851-351e-4f30-bf69-ac2ed6f1abba)
+
 ## Contributing
 
 Feel free to contribute by adding new examples, exercises, or projects. Just fork the repo, create a new branch, and submit a pull request!
@@ -61,6 +71,7 @@ Feel free to contribute by adding new examples, exercises, or projects. Just for
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
+
 For any questions or suggestions, please contact:
 - Harsh Singh: [harshjuly12@gmail.com](mailto:harshjuly12@gmail.com)
 - GitHub: [harshjuly12](https://github.com/harshjuly12)
